@@ -1,0 +1,40 @@
+.one{
+    width: 300px;
+    height: 300px;
+    display:  inline-block;
+    border:black 2px solid;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0px 4px 8px black;
+    transition-duration: 1s;
+
+}
+
+
+
+.two{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border: black 2px solid;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0px 4px 8px black;
+    transition-duration: 1s;
+}
+
+.inf{
+    padding-left: 5px;
+}
+
+img{
+    width: 100%;
+    border-top-right-radius: 5px;
+}
+
+.one:hover{
+    box-shadow: 0px 8px 16px black;
+}
+.two:hover{
+    box-shadow: 0px 8px 16px black;
+}
